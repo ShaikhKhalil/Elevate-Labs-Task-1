@@ -2,7 +2,6 @@
 
 This project involves designing and implementing a relational database schema for a Library Management System using MySQL. It includes entities for books, authors, categories, members, librarians, and book issue tracking.
 
----
 
 ## Database Schema Overview
 
@@ -14,7 +13,6 @@ This project involves designing and implementing a relational database schema fo
 - **Librarian**: Staff managing book issues and returns
 - **IssuedBook**: Tracks which member has borrowed which book, by which librarian
 
----
 
 ##  Files Included
 
@@ -33,8 +31,6 @@ This project involves designing and implementing a relational database schema fo
 3. Run the SQL script `khalil_library.sql` to create the schema and tables
 4. Use `er_diagram.png` to understand the schema structure visually
 
----
-
 ##  Concepts Applied
 
 - SQL DDL: `CREATE TABLE`, `PRIMARY KEY`, `FOREIGN KEY`
@@ -42,8 +38,6 @@ This project involves designing and implementing a relational database schema fo
 - One-to-Many relationships
 - Use of `AUTO_INCREMENT`
 - ER Diagram Design
-
----
 
 ##  Author
 
